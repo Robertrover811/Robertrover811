@@ -4,9 +4,13 @@ What I Know:
 
 Python, HTML, CSS
 
+
+
 What I'm Learning and I Want to Learn:
 
 JavaScript, Swift, C++, and C#
+
+
 
 What I'm Working on:
 
