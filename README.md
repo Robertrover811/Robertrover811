@@ -8,7 +8,7 @@ Python, HTML, CSS
 
 What I'm Learning and I Want to Learn:
 
-JavaScript, Swift, C++, and C#
+JavaScript, Swift, C++, C#, Java, and Rust
 
 
 
