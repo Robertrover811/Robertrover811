@@ -1,4 +1,4 @@
-```About Me-```
+#h2 ```About Me-```
 
 What I Know:
 
@@ -6,13 +6,13 @@ Python, HTML, CSS
 
 
 
-``What I'm Learning and I Want to Learn:``
+#h2 ``What I'm Learning and I Want to Learn:``
 
 JavaScript, Swift, C++, C#, Java, and Rust
 
 
 
-``What I'm Working on:``
+#h2 ``What I'm Working on:``
 
 -Recommendations Bot which is a Discord Bot written in Python that recommends books, movies, and shows to you
 
