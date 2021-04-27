@@ -14,7 +14,7 @@ JavaScript, Swift, C++, C#, Java, and Rust
 
 ## What I'm Working on:
 
--Recommendations Bot which is a Discord Bot written in Python that recommends books, movies, and shows to you
+-A Steganography encoder and decoder that runs on localhost
 
 -A Python adventure game that plays like D&D that I might make into a Discord bot...
 
